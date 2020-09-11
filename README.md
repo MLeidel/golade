@@ -9,6 +9,6 @@ Usage: `golade my.glade > my.go`
 
 The UI should run at this point; without busness logic.
 
-Run: `go run my.go'
+Run: `go run my.go`
 
 
