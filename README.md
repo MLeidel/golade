@@ -7,7 +7,7 @@ handler function bodies.
 
 Usage: `golade my.glade > my.go`  
 
-The UI should run at this point; without busness logic.
+The UI should run (display) at this point; without fully functioning widgets.
 
 Run: `go run my.go`
 
