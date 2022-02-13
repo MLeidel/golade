@@ -1,5 +1,5 @@
 # golade
-**A Glade / Gtk 3 to Go Sketcher**
+*generates Go source code for a gtk GUI from a Glade xml file*
 
 `golade` creates a Go program using your Glade (xml) definition file.  
 It sets up the global widget objects, signal connections and  
